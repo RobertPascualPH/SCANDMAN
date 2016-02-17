@@ -1,0 +1,2 @@
+# SCANDMAN
+Scanned documents manager.
